@@ -1,0 +1,38 @@
+body {
+  background-color: #383838;
+}
+
+hr {
+  border-color: black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 2px;
+  width: 30%;
+}
+
+h1{
+  color: #990000;
+}
+
+h3 {
+  color: #990000;
+}
+
+/***CLASS SELECTORS***/
+.daygo {
+  background-color = red;
+  /*doesnt show since image is not png*/
+}
+
+.yuli {
+  border-radius: 100%;
+}
+
+.gang:hover {
+  height: 150px;
+}
+
+/***ID SELECTORS***/
+#firstSection {
+  color: blue;
+}
